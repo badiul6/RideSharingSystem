@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Capture.PNG</file>
+    <file>180515-woman-driver-steering-wheel-ac-631p.jpg</file>
+    <file>car.png</file>
+    <file>istockphoto-958693744-612x612.jpg</file>
+  </qresource>
+</RCC>
